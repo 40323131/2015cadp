@@ -37,6 +37,7 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="123.20151014215859.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="123.20151001144046.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
@@ -293,9 +294,10 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="123.20151001171250.1"><vh>作業任務一</vh></v>
-<v t="123.20151001171251.1"><vh>作業任務一</vh></v>
-<v t="123.20151001171254.1"><vh>作業任務一</vh></v>
+<v t="123.20151001171250.1"><vh>作業任務二</vh></v>
+<v t="123.20151001171251.1"><vh>作業任務三</vh></v>
+<v t="123.20151001171254.1"><vh>作業任務四</vh></v>
+<v t="123.20151014233747.1"><vh>作業任務五</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -498,26 +500,29 @@
 </vnodes>
 <tnodes>
 <t tx="123.20151001171250.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第二步:在New Group中選擇Extrude進行伸出&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/XitGA40oDqLowywk&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="123.20151001171251.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第三步:選2條線、1個點建立新平面，繪製肋材，並且伸出&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/1ZQANEFegQ2jnCxC&gt;
 &lt;/section&gt;
-				
-</t>
+			</t>
 <t tx="123.20151001171254.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第四步:選擇2條邊線及其交點，建立草圖平面，並進行除料，需要注意除料方向是否正確&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/JCMS0cqDiew9LhKN&gt;
 &lt;/section&gt;
-				
-</t>
+			</t>
+<t tx="123.20151014233747.1">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;繪製完成成品圖&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/dKtaDFpRuOzm7ysI&gt;
+&lt;/section&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -2013,9 +2018,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評分數與心得&lt;/h1&gt;
+    &lt;p&gt;這周的作業主要是要熟悉Solvespace 的使用方式，感覺跟solid works 不太一樣，所以有些不習慣，還不太會使用，所以就沒有拍成影片。&lt;/p&gt;
+    &lt;p&gt;自評分數:70分&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2046,15 +2051,16 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;
+    &lt;h1&gt;Solvespace 練習&lt;/h1&gt;
+    &lt;p&gt;40323131&lt;/p&gt;
+    &lt;p&gt;張元旭&lt;/p&gt;
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第一步:先選一個點，形成工作平面，繪製草圖後並且定義它&lt;/p&gt;
+    &lt;IMG SRC= https://copy.com/WU4rkziqrmlcQVrd&gt;
 &lt;/section&gt;
 				
 </t>

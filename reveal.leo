@@ -38,6 +38,7 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="123.20151014215859.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="123.20151015151244.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="123.20151001144046.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
@@ -286,7 +287,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -302,6 +303,25 @@
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20151015152344.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="123.20151015152344.2"><vh>檔案說明</vh></v>
+<v t="123.20151015152344.3" a="E"><vh>html 標註</vh>
+<v t="123.20151015152344.4" a="E"><vh>body 標註</vh>
+<v t="123.20151015152344.5" a="E"><vh>div class="reveal"</vh>
+<v t="123.20151015152344.6" a="E"><vh>div class="slides"</vh>
+<v t="123.20151015152344.7"><vh>有關我的作業</vh></v>
+<v t="123.20151015152344.8"><vh>作業任務一</vh></v>
+<v t="123.20151015152344.9"><vh>作業任務二</vh></v>
+<v t="123.20151015152344.10"><vh>作業任務三</vh></v>
+<v t="123.20151015152344.11"><vh>作業任務四</vh></v>
+<v t="123.20151015152344.12"><vh>作業任務五</vh></v>
+<v t="123.20151015152344.13"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="123.20151015152344.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -523,6 +543,103 @@
     &lt;p&gt;繪製完成成品圖&lt;/p&gt;
     &lt;IMG SRC=https://copy.com/dKtaDFpRuOzm7ysI&gt;
 &lt;/section&gt;</t>
+<t tx="123.20151015152344.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20151015152344.10">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第三步:選2條線、1個點建立新平面，繪製肋材，並且伸出&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/1ZQANEFegQ2jnCxC&gt;
+&lt;/section&gt;
+			</t>
+<t tx="123.20151015152344.11">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第四步:選擇2條邊線及其交點，建立草圖平面，並進行除料，需要注意除料方向是否正確&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/JCMS0cqDiew9LhKN&gt;
+&lt;/section&gt;
+			</t>
+<t tx="123.20151015152344.12">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;繪製完成成品圖&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/dKtaDFpRuOzm7ysI&gt;
+&lt;/section&gt;</t>
+<t tx="123.20151015152344.13">&lt;section&gt;
+    &lt;h1&gt;自評分數與心得&lt;/h1&gt;
+    &lt;p&gt;這周的作業主要是要熟悉Solvespace 的使用方式，感覺跟solid works 不太一樣，所以有些不習慣，還不太會使用，所以就沒有拍成影片。&lt;/p&gt;
+    &lt;p&gt;自評分數:70分&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="123.20151015152344.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="123.20151015152344.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="123.20151015152344.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="123.20151015152344.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="123.20151015152344.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="123.20151015152344.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="123.20151015152344.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;Solvespace 練習2&lt;/h1&gt;
+    &lt;p&gt;40323131&lt;/p&gt;
+    &lt;p&gt;張元旭&lt;/p&gt;
+&lt;/section&gt;
+	
+</t>
+<t tx="123.20151015152344.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第一步:先選一個點，形成工作平面，繪製草圖後並且定義它&lt;/p&gt;
+    &lt;IMG SRC= https://copy.com/WU4rkziqrmlcQVrd&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="123.20151015152344.9">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;練習流程&lt;/h1&gt;
+    &lt;p&gt;第二步:在New Group中選擇Extrude進行伸出&lt;/p&gt;
+    &lt;IMG SRC=https://copy.com/XitGA40oDqLowywk&gt;
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -2170,7 +2287,7 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
-os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
+os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress
 ''')
 g.es("pelican 執行完畢")</t>
 <t tx="amd.20150920030003.1">必須使用 IPython 3.2.1

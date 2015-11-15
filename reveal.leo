@@ -29,7 +29,7 @@
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 <v t="amd.20150920030003.1"><vh>IPython notebook 整合</vh></v>
-<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -41,9 +41,19 @@
 <v t="123.20151015151244.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="123.20151001144046.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="123.20151116032330.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="123.20151116032333.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="123.20151116032335.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="123.20151116032408.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="123.20151116032929.1"><vh>@edit 40323131_cp_w8_p.html</vh></v>
+<v t="123.20151116032921.1"><vh>@edit 40323131_cp_w7_p.html</vh></v>
+<v t="123.20151116032915.1"><vh>@edit 40323131_cp_w6_p.html</vh></v>
+<v t="123.20151116032909.1"><vh>@edit 40323131_cp_w5_p.html</vh></v>
+<v t="123.20151116032901.1"><vh>@edit 40323131_cp_w2_p.html</vh></v>
+<v t="123.20151116032853.1"><vh>@edit 40323131_cp_w1_p.html</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -69,6 +79,7 @@
 </v>
 </v>
 </v>
+<v t="123.20151116032824.1"><vh>@edit 40323131_cp_w3_p.html</vh></v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
@@ -306,7 +317,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151015152344.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="123.20151015152344.1"><vh>@clean simplest2.html</vh>
 <v t="123.20151015152344.2"><vh>檔案說明</vh></v>
 <v t="123.20151015152344.3" a="E"><vh>html 標註</vh>
 <v t="123.20151015152344.4" a="E"><vh>body 標註</vh>

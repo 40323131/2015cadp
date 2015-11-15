@@ -1,0 +1,81 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h2>班級協同作業1</h2>
+    <p>四設計二甲</p>
+    <p>40323131  張元旭</p>
+</section>
+
+<section id="hw-task-one">
+    <section>
+        <h2>上課內容</h2>
+        <p>1.建立github倉儲，倉儲名稱不限，新增時Remade打勾
+        2.git clone 倉儲的網址，下載完成後，輸入"cd 倉儲名稱"，進入倉儲資料夾
+        3.輸入git branch 確認目前倉儲的所有分支
+        4.輸入git branch gh-pages 建立名為gh-pages的分支 
+        5.再次輸入git branch 確認gh-pages分支是否有建立
+        6.輸入git checkout gh-pages 將目前分支切換為gh-pages分支
+    </section>
+    <section>
+        完成後將reaval的gh-pages裡的檔案download，將除了Readme和.git之外其他檔案複製到自己的資料夾
+        將檔案推到遠端
+        1.git add -A       新增檔案
+        2.git config --global user.name "使用者github名稱" 
+        3.git config --global user.email "使用者github信箱"
+        4.git commit -m "1001" 為這次版本變動註解  
+        5.git push origin gh-pages 將新增檔案推到gh-pages裡頭
+        6.認證使用者github帳號及密碼
+        7.確認是否成功,輸入網址即可</p>
+    </section>
+</section>
+				
+<section>
+    <h2>心得分享1</h2>
+    <p>本學期開始使用github網站,，教如何創建分支，以及如何變換分支，這是蠻重要的，因為這算是基本的步驟，還有要上傳的那些指令，還有建立的個人github倉儲，是之後每周的作業繳交必備的步驟，所以這周的課程非常重要</p>
+  
+</section>
+
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>第一周:75</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
+
+

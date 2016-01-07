@@ -36,15 +36,171 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
+<v t="123.20160107210112.1"><vh>以下為 reveal 投影片</vh>
+<v t="123.20160107210112.2"><vh>@clean 40323131_cp_w11.html</vh>
+<v t="123.20160107210112.3"><vh>檔案說明</vh></v>
+<v t="123.20160107210112.4" a="E"><vh>html 標註</vh>
+<v t="123.20160107210112.5" a="E"><vh>body 標註</vh>
+<v t="123.20160107210112.6" a="E"><vh>div class="reveal"</vh>
+<v t="123.20160107210112.7" a="E"><vh>div class="slides"</vh>
+<v t="123.20160107210112.8" a="E"><vh>投影頁面1 封面</vh>
+<v t="123.20160107210112.13"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20160107210112.10" a="E"><vh>投影頁面2 筆記</vh>
+<v t="123.20160107210112.13"></v>
+</v>
+<v t="123.20160107210112.12" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20160107210112.13"></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.14"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.15"><vh>@clean 40323131_cp_w12.html</vh>
+<v t="123.20160107210112.16"><vh>檔案說明</vh></v>
+<v t="123.20160107210112.17" a="E"><vh>html 標註</vh>
+<v t="123.20160107210112.18" a="E"><vh>body 標註</vh>
+<v t="123.20160107210112.19" a="E"><vh>div class="reveal"</vh>
+<v t="123.20160107210112.20" a="E"><vh>div class="slides"</vh>
+<v t="123.20160107210112.21" a="E"><vh>投影頁面1 封面</vh>
+<v t="123.20160107210112.26"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20160107210112.23" a="E"><vh>投影頁面2 筆記</vh>
+<v t="123.20160107210112.26"></v>
+</v>
+<v t="123.20160107210112.25" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20160107210112.26"></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.27"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.28"><vh>@clean 40323131_cp_w13.html</vh>
+<v t="123.20160107210112.29"><vh>檔案說明</vh></v>
+<v t="123.20160107210112.30" a="E"><vh>html 標註</vh>
+<v t="123.20160107210112.31" a="E"><vh>body 標註</vh>
+<v t="123.20160107210112.32" a="E"><vh>div class="reveal"</vh>
+<v t="123.20160107210112.33" a="E"><vh>div class="slides"</vh>
+<v t="123.20160107210112.34" a="E"><vh>投影頁面1 封面</vh>
+<v t="123.20160107210112.39"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20160107210112.36" a="E"><vh>投影頁面2 筆記</vh>
+<v t="123.20160107210112.39"></v>
+</v>
+<v t="123.20160107210112.38" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20160107210112.39"></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.40"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.41"><vh>@clean 40323131_cp_w14.html</vh>
+<v t="123.20160107210112.42"><vh>檔案說明</vh></v>
+<v t="123.20160107210112.43" a="E"><vh>html 標註</vh>
+<v t="123.20160107210112.44" a="E"><vh>body 標註</vh>
+<v t="123.20160107210112.45" a="E"><vh>div class="reveal"</vh>
+<v t="123.20160107210112.46" a="E"><vh>div class="slides"</vh>
+<v t="123.20160107210112.47" a="E"><vh>投影頁面1 封面</vh>
+<v t="123.20160107210112.52"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20160107210112.49" a="E"><vh>投影頁面2 筆記</vh>
+<v t="123.20160107210112.52"></v>
+</v>
+<v t="123.20160107210112.51" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20160107210112.52"></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.53"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.54"><vh>@clean 40323131_cp_w15.html</vh>
+<v t="123.20160107210112.55"><vh>檔案說明</vh></v>
+<v t="123.20160107210112.56" a="E"><vh>html 標註</vh>
+<v t="123.20160107210112.57" a="E"><vh>body 標註</vh>
+<v t="123.20160107210112.58" a="E"><vh>div class="reveal"</vh>
+<v t="123.20160107210112.59" a="E"><vh>div class="slides"</vh>
+<v t="123.20160107210112.60" a="E"><vh>投影頁面1 封面</vh>
+<v t="123.20160107210112.65"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20160107210112.62" a="E"><vh>投影頁面2 筆記</vh>
+<v t="123.20160107210112.65"></v>
+</v>
+<v t="123.20160107210112.64" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20160107210112.65"></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.66"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.67"><vh>@clean 40323131_cp_w16.html</vh>
+<v t="123.20160107210112.68"><vh>檔案說明</vh></v>
+<v t="123.20160107210112.69" a="E"><vh>html 標註</vh>
+<v t="123.20160107210112.70" a="E"><vh>body 標註</vh>
+<v t="123.20160107210112.71" a="E"><vh>div class="reveal"</vh>
+<v t="123.20160107210112.72" a="E"><vh>div class="slides"</vh>
+<v t="123.20160107210112.73" a="E"><vh>投影頁面1 封面</vh>
+<v t="123.20160107210112.78"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20160107210112.75" a="E"><vh>投影頁面2 筆記</vh>
+<v t="123.20160107210112.78"></v>
+</v>
+<v t="123.20160107210112.77" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20160107210112.78"></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.79"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.80"><vh>@clean 40323131_cp_w17.html</vh>
+<v t="123.20160107210112.81"><vh>檔案說明</vh></v>
+<v t="123.20160107210112.82" a="E"><vh>html 標註</vh>
+<v t="123.20160107210112.83" a="E"><vh>body 標註</vh>
+<v t="123.20160107210112.84" a="E"><vh>div class="reveal"</vh>
+<v t="123.20160107210112.85" a="E"><vh>div class="slides"</vh>
+<v t="123.20160107210112.86" a="E"><vh>投影頁面1 封面</vh>
+<v t="123.20160107210112.91"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="123.20160107210112.88" a="E"><vh>投影頁面2 筆記</vh>
+<v t="123.20160107210112.91"></v>
+</v>
+<v t="123.20160107210112.90" a="E"><vh>投影頁面 自評與心得</vh>
+<v t="123.20160107210112.91"></v>
+</v>
+</v>
+</v>
+<v t="123.20160107210112.92"><vh>script</vh></v>
+</v>
+</v>
+</v>
+</v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="123.20151014215859.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="123.20151015151244.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="123.20151001144046.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="123.20151116032330.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="123.20151014215859.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="123.20151015151244.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="123.20151116032333.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="123.20151116032335.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="123.20151116032408.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="123.20160107210517.1"><vh>@edit 40323131_cp_w11.md</vh></v>
+<v t="123.20160107210524.1"><vh>@edit 40323131_cp_w12.md</vh></v>
+<v t="123.20160107210531.1"><vh>@edit 40323131_cp_w13.md</vh></v>
+<v t="123.20160107210539.1"><vh>@edit 40323131_cp_w14.md</vh></v>
+<v t="123.20160107210545.1"><vh>@edit 40323131_cp_w15.md</vh></v>
+<v t="123.20160107210553.1"><vh>@edit 40323131_cp_w16.md</vh></v>
+<v t="123.20160107210433.1"><vh>@edit 40323131_cp_w17.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 <v t="123.20160107213724.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="123.20160107213844.1"><vh>@edit 40323131_cp_w12.md</vh></v>
@@ -805,96 +961,8 @@
 &lt;/section&gt;
 				
 </t>
-<t tx="123.20160107214146.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="123.20160107214146.11">&lt;&lt; header &gt;&gt;
-
-    &lt;h3&gt;心得與自評&lt;/h3&gt;
-    &lt;br&gt;
-    &lt;p&gt;這周因為之前在reveal.leo上的節點被移除之後，必須要將之前尚未備份的個人資料給備份起來，所以必須使用到git reset --hard這個指令， 然後在這周將個人跟班級的管理位置分開，這樣子以後就只會動到個人的資料，並不會去影響到班級的資料，因為存取資料的位置不同， 雖然說一樣都要再推到班級倉儲，但這樣如果出問題的話，只會在個人的，並不會去動到班級的&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;評分 : 85 &lt;/p&gt; 
-&lt;/section&gt;		
-		
-</t>
-<t tx="123.20160107214146.12">&lt;section data-state="header1"&gt;
-&lt;style&gt;.header1 header:after { 
-display: block;
-white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
-</t>
-<t tx="123.20160107214146.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="123.20160107214146.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="123.20160107214146.3">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="123.20160107214146.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="123.20160107214146.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-
-&lt;!-- 出現在每一頁的 header 格式 --&gt;
-
-&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
-
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20160107214146.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="123.20160107214146.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-
-&lt;&lt; header &gt;&gt;
-
-    &lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2016 / 01 / 07 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;h2&gt;四設二甲&lt;/h2&gt;
-    &lt;br&gt;
-    &lt;h3&gt;40323131 張元旭&lt;/h3&gt;
-    &lt;h3&gt;第十一週作業&lt;/h3&gt;		
-    &lt;/section&gt;
-    
-&lt;/section&gt;
-	
-</t>
-<t tx="123.20160107214146.9">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.1"></t>
+<t tx="123.20160107210112.10">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
     &lt;h3&gt;如何備份自己的REVEAL.LEO檔案&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
@@ -913,29 +981,24 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
 
 
 </t>
-<t tx="123.20160107214155.1">@language xml
-@tabwidth -4
-@others
+<t tx="123.20160107210112.12">&lt;&lt; header &gt;&gt;
 
-</t>
-<t tx="123.20160107214155.11">&lt;&lt; header &gt;&gt;
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;這周還是有蠻多同學不太清楚如何去備份之前版次的資料，
-    所以大致上都在協助同學完成備份資料跟建立個人.leo檔&lt;/p&gt;
+    &lt;p&gt;這周因為之前在reveal.leo上的節點被移除之後，必須要將之前尚未備份的個人資料給備份起來，所以必須使用到git reset --hard這個指令， 然後在這周將個人跟班級的管理位置分開，這樣子以後就只會動到個人的資料，並不會去影響到班級的資料，因為存取資料的位置不同， 雖然說一樣都要再推到班級倉儲，但這樣如果出問題的話，只會在個人的，並不會去動到班級的&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
-<t tx="123.20160107214155.12">&lt;section data-state="header1"&gt;
+<t tx="123.20160107210112.13">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
 </t>
-<t tx="123.20160107214155.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="123.20160107210112.14">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -944,14 +1007,19 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
 &lt;/script&gt;
 	
 </t>
-<t tx="123.20160107214155.2">&lt;!--
+<t tx="123.20160107210112.15">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20160107210112.16">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="123.20160107214155.3">&lt;!doctype html&gt;
+<t tx="123.20160107210112.17">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -965,11 +1033,11 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
 &lt;/head&gt;
 @others
 </t>
-<t tx="123.20160107214155.4">&lt;body&gt;
+<t tx="123.20160107210112.18">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="123.20160107214155.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="123.20160107210112.19">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
@@ -979,12 +1047,17 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214155.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="123.20160107210112.2">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20160107210112.20">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214155.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="123.20160107210112.21">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -1003,7 +1076,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160107214155.9">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.23">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
     &lt;h3&gt;如何備份自己的REVEAL.LEO檔案&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
@@ -1022,30 +1095,24 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
 
 
 </t>
-<t tx="123.20160107214204.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="123.20160107214204.11">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.25">&lt;&lt; header &gt;&gt;
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;下半學期使用各組分工繪製零件的方式，可以有效的提高工作效率，
-    但是有部分缺點就是組員負責的零件尺寸，如果有錯誤的話，在組裝過程會導致裝配不起來，
-    這個算是組員個人的問題，所以組員本身也必須詳閱零件圖才行；還有就是本身使用creo組裝上，
-    還是不太熟悉，要再多加練習。&lt;/p&gt;
+    &lt;p&gt;這周還是有蠻多同學不太清楚如何去備份之前版次的資料，
+    所以大致上都在協助同學完成備份資料跟建立個人.leo檔&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
-<t tx="123.20160107214204.12">&lt;section data-state="header1"&gt;
+<t tx="123.20160107210112.26">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</t>
-<t tx="123.20160107214204.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;
+</t>
+<t tx="123.20160107210112.27">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1054,14 +1121,26 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/script&gt;
 	
 </t>
-<t tx="123.20160107214204.2">&lt;!--
+<t tx="123.20160107210112.28">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20160107210112.29">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="123.20160107214204.3">&lt;!doctype html&gt;
+<t tx="123.20160107210112.3">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="123.20160107210112.30">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1075,11 +1154,11 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/head&gt;
 @others
 </t>
-<t tx="123.20160107214204.4">&lt;body&gt;
+<t tx="123.20160107210112.31">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="123.20160107214204.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="123.20160107210112.32">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
@@ -1089,12 +1168,12 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214204.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="123.20160107210112.33">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214204.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="123.20160107210112.34">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -1113,7 +1192,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160107214204.9">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.36">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
     &lt;h3&gt;如何在creo上繪製Nutcracker 機構零件 base&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
@@ -1126,44 +1205,25 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 
 
 </t>
-<t tx="123.20160107214210.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="123.20160107214210.11">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.38">&lt;&lt; header &gt;&gt;
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;這周再次來熟悉creo的操作，大致上是還ok的，但是有時候會被學校滑鼠給妨礙，
-    無法順利地切換視角，導致繪圖及組裝過程相當的不順利，看來要自己帶自己的滑鼠來使用了&lt;/p&gt;
+    &lt;p&gt;下半學期使用各組分工繪製零件的方式，可以有效的提高工作效率，
+    但是有部分缺點就是組員負責的零件尺寸，如果有錯誤的話，在組裝過程會導致裝配不起來，
+    這個算是組員個人的問題，所以組員本身也必須詳閱零件圖才行；還有就是本身使用creo組裝上，
+    還是不太熟悉，要再多加練習。&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 : 80 &lt;/p&gt; 
+    &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
-<t tx="123.20160107214210.12">&lt;section data-state="header1"&gt;
+<t tx="123.20160107210112.39">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</t>
-<t tx="123.20160107214210.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="123.20160107214210.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="123.20160107214210.3">&lt;!doctype html&gt;
+<t tx="123.20160107210112.4">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1177,11 +1237,46 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/head&gt;
 @others
 </t>
-<t tx="123.20160107214210.4">&lt;body&gt;
+<t tx="123.20160107210112.40">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="123.20160107210112.41">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20160107210112.42">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="123.20160107210112.43">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="123.20160107210112.44">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="123.20160107214210.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="123.20160107210112.45">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
@@ -1191,12 +1286,12 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214210.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="123.20160107210112.46">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214210.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="123.20160107210112.47">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -1215,7 +1310,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160107214210.9">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.49">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
     &lt;h3&gt;如何在creo上繪製Nutcracker 機構零件 base&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
@@ -1228,32 +1323,27 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 
 
 </t>
-<t tx="123.20160107214217.1">@language xml
-@tabwidth -4
+<t tx="123.20160107210112.5">&lt;body&gt;
 @others
-
+&lt;/body&gt;
 </t>
-<t tx="123.20160107214217.11">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.51">&lt;&lt; header &gt;&gt;
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;使用了最近開放免費註冊的onshape，發現到它的雲端協同功能真的非常有用，
-    之前再組裝機構方面，都需要跟同學要零件檔案才能組裝，但是現在完全不用，
-    只要組員在相同的workspace下，繪製零件，那個零件可以馬上在線上看到，
-    也可以看到繪製過程，要組裝的時候，創建一個組裝圖，就可以馬上把在這個workspace下繪製的零件，
-    馬上叫出來組裝，而且零件尺寸修改後，只要重新叫出來，就是修正後的尺寸了，這是相當方便的功能，
-    再往後要協同上也是相當方便的&lt;/p&gt;
+    &lt;p&gt;這周再次來熟悉creo的操作，大致上是還ok的，但是有時候會被學校滑鼠給妨礙，
+    無法順利地切換視角，導致繪圖及組裝過程相當的不順利，看來要自己帶自己的滑鼠來使用了&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 : 85 &lt;/p&gt; 
+    &lt;p&gt;評分 : 80 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
-<t tx="123.20160107214217.12">&lt;section data-state="header1"&gt;
+<t tx="123.20160107210112.52">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</t>
-<t tx="123.20160107214217.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="123.20160107210112.53">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1262,14 +1352,19 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/script&gt;
 	
 </t>
-<t tx="123.20160107214217.2">&lt;!--
+<t tx="123.20160107210112.54">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20160107210112.55">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="123.20160107214217.3">&lt;!doctype html&gt;
+<t tx="123.20160107210112.56">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1283,11 +1378,11 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/head&gt;
 @others
 </t>
-<t tx="123.20160107214217.4">&lt;body&gt;
+<t tx="123.20160107210112.57">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="123.20160107214217.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="123.20160107210112.58">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
@@ -1297,12 +1392,22 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214217.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="123.20160107210112.59">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214217.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="123.20160107210112.6">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="123.20160107210112.60">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -1321,7 +1426,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160107214217.9">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.62">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
     &lt;h3&gt;註冊onshape帳號及基本操作&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
@@ -1338,31 +1443,27 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 
 
 </t>
-<t tx="123.20160107214223.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="123.20160107214223.11">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.64">&lt;&lt; header &gt;&gt;
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;為什麼需要限制機構作動呢?? 因為在軟體模擬下，機構是可以任意作動的，
-    就算有碰撞發生，機構也可以持續作動下去；但在真實情況下，是不允許的，是會發生碰撞的，
-    所以為了要模擬真實情況就必須給它限制條件。
-    剛開始在限制條件時，根本不清楚哪個是哪個，有時候限制了，卻還是會穿過去，
-    也摸索一段時間，才比較清楚在限制哪裡。&lt;/p&gt;
+    &lt;p&gt;使用了最近開放免費註冊的onshape，發現到它的雲端協同功能真的非常有用，
+    之前再組裝機構方面，都需要跟同學要零件檔案才能組裝，但是現在完全不用，
+    只要組員在相同的workspace下，繪製零件，那個零件可以馬上在線上看到，
+    也可以看到繪製過程，要組裝的時候，創建一個組裝圖，就可以馬上把在這個workspace下繪製的零件，
+    馬上叫出來組裝，而且零件尺寸修改後，只要重新叫出來，就是修正後的尺寸了，這是相當方便的功能，
+    再往後要協同上也是相當方便的&lt;/p&gt;
     &lt;br&gt;
     &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
-<t tx="123.20160107214223.12">&lt;section data-state="header1"&gt;
+<t tx="123.20160107210112.65">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</t>
-<t tx="123.20160107214223.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="123.20160107210112.66">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1371,14 +1472,19 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/script&gt;
 	
 </t>
-<t tx="123.20160107214223.2">&lt;!--
+<t tx="123.20160107210112.67">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20160107210112.68">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="123.20160107214223.3">&lt;!doctype html&gt;
+<t tx="123.20160107210112.69">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1392,11 +1498,16 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/head&gt;
 @others
 </t>
-<t tx="123.20160107214223.4">&lt;body&gt;
+<t tx="123.20160107210112.7">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="123.20160107210112.70">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="123.20160107214223.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="123.20160107210112.71">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
@@ -1406,12 +1517,12 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214223.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="123.20160107210112.72">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214223.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="123.20160107210112.73">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -1430,7 +1541,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160107214223.9">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.75">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
     &lt;h3&gt;限制Nutcracker 機構的作動&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
@@ -1449,27 +1560,26 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 
 
 </t>
-<t tx="123.20160107214235.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="123.20160107214235.11">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.77">&lt;&lt; header &gt;&gt;
 
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;這周檢查組別的網頁是否還有不完整的地方，維護及更新個人的每周進度&lt;/p&gt;
+    &lt;p&gt;為什麼需要限制機構作動呢?? 因為在軟體模擬下，機構是可以任意作動的，
+    就算有碰撞發生，機構也可以持續作動下去；但在真實情況下，是不允許的，是會發生碰撞的，
+    所以為了要模擬真實情況就必須給它限制條件。
+    剛開始在限制條件時，根本不清楚哪個是哪個，有時候限制了，卻還是會穿過去，
+    也摸索一段時間，才比較清楚在限制哪裡。&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 : 80 &lt;/p&gt; 
+    &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
-<t tx="123.20160107214235.12">&lt;section data-state="header1"&gt;
+<t tx="123.20160107210112.78">&lt;section data-state="header1"&gt;
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
 content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</t>
-<t tx="123.20160107214235.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="123.20160107210112.79">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1478,14 +1588,38 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/script&gt;
 	
 </t>
-<t tx="123.20160107214235.2">&lt;!--
+<t tx="123.20160107210112.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2016 / 01 / 07 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設二甲&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;h3&gt;40323131 張元旭&lt;/h3&gt;
+    &lt;h3&gt;第十一週作業&lt;/h3&gt;		
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="123.20160107210112.80">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20160107210112.81">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="123.20160107214235.3">&lt;!doctype html&gt;
+<t tx="123.20160107210112.82">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1499,11 +1633,11 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/head&gt;
 @others
 </t>
-<t tx="123.20160107214235.4">&lt;body&gt;
+<t tx="123.20160107210112.83">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="123.20160107214235.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="123.20160107210112.84">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 
 &lt;!-- 出現在每一頁的 header 格式 --&gt;
 
@@ -1513,12 +1647,12 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214235.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="123.20160107210112.85">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="123.20160107214235.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="123.20160107210112.86">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 
@@ -1537,7 +1671,7 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 &lt;/section&gt;
 	
 </t>
-<t tx="123.20160107214235.9">&lt;&lt; header &gt;&gt;
+<t tx="123.20160107210112.88">&lt;&lt; header &gt;&gt;
     &lt;section&gt;
     &lt;h3&gt;登錄期末自評成績&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
@@ -1551,6 +1685,30 @@ content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</
 
 
 
+</t>
+<t tx="123.20160107210112.90">&lt;&lt; header &gt;&gt;
+
+    &lt;h3&gt;心得與自評&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;這周檢查組別的網頁是否還有不完整的地方，維護及更新個人的每周進度&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;評分 : 80 &lt;/p&gt; 
+&lt;/section&gt;		
+		
+</t>
+<t tx="123.20160107210112.91">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號: 40323131"; }&lt;/style&gt;</t>
+<t tx="123.20160107210112.92">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
